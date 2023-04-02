@@ -1,5 +1,7 @@
 # The-last-of-us
 
+Visit: <a href="https://diegokraus.github.io/the-last-of-us/">The-last-of-us </a>
+
 Site com carrossel de imagens manipuladas com JavaScript.
 
 ## Tecnologias:
